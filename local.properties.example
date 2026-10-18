@@ -1,0 +1,7 @@
+# Copy to local.properties (ignored by Git).
+# Android Studio creates sdk.dir for your local Android SDK.
+# sdk.dir=/path/to/Android/Sdk
+
+# Optional: leave empty to build without the Claude movie advisor.
+# Personal builds embed this key in the APK. Do not distribute a keyed APK.
+ANTHROPIC_API_KEY=
